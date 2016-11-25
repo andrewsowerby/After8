@@ -1,0 +1,25 @@
+{
+    "name": "after8-theme",
+    "title": "After8",
+    "description": "After8 is a Brackets theme based on my custom jEdit cool-mint theme, and inspired by the Dark Chocolate Mint Fondant Filled Square of great reknown",
+    "homepage": "none",
+    "version": "1.0.0",
+    "author": {
+        "name": "Andrew Sowerby",
+        "url": "https://github.com/andrewsowerby/After8"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/andrewsowerby/After8"
+    },
+    "theme": {
+        "file": "main.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "engines": {
+        "brackets": ">=1.2"
+    },
+    "license": "MIT",
+    "keywords": ["theme", "brackets", "green", "cool", "mint", "soft", "jEdit", "dark", "easy", "extension", "fork"]
+}
